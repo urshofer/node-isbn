@@ -15,7 +15,7 @@ const GOOGLE_BOOKS_API_BOOK = '/books/v1/volumes';
 const OPENLIBRARY_API_BASE = 'https://openlibrary.org';
 const OPENLIBRARY_API_BOOK = '/api/books';
 
-const WORLDCAT_API_BASE = 'http://xisbn.worldcat.org';
+const WORLDCAT_API_BASE = 'https://xisbn.worldcat.org';
 const WORLDCAT_API_BOOK = '/webservices/xid/isbn';
 
 const ISBNDB_API_BASE = 'https://api2.isbndb.com';
